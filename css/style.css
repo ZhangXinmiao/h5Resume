@@ -45,7 +45,7 @@ html,body{
   font-size: 9.5vw;
 }
 .right > h2{
-  margin-top: 7vw;
+  margin-top: 5vw;
 }
 
 #page1{
@@ -151,7 +151,7 @@ html,body{
 #content1 > p{
   width:85%;
   margin: 0 auto;
-  padding: 0.5vw;
+  padding: 0.25vw;
 }
 .fadeout{
   opacity: .3;
