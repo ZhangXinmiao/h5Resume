@@ -151,7 +151,7 @@ html,body{
 #content1 > p{
   width:85%;
   margin: 0 auto;
-  padding: 0.25vw;
+  padding: 0.2vw;
 }
 .fadeout{
   opacity: .3;
@@ -181,8 +181,8 @@ html,body{
   margin-top: 0.5vw;
 }
 .fadein{
-  animation: thefadein 2s;
-  -webkit-animation: thefadein 2s;
+  animation: thefadein 1.5s;
+  -webkit-animation: thefadein 1.5s;
 }
 @keyframes thefadein{
   0%{opacity: 0.3;}
