@@ -3,6 +3,8 @@ window.onload = function(){
     var page2 = document.getElementById("page2");
     var page3 = document.getElementById("page3");
     var page4 = document.getElementById("page4");
+    var foot = document.getElementsByClassName('thefoot')[0];
+    console.log(foot);
     page1.addEventListener("touchmove", function(event){
       this.style.display = "none";
       page2.style.display = "block";
@@ -17,5 +19,6 @@ window.onload = function(){
       this.style.display = "none";
       page4.style.display = "block";
       page4.setAttribute("class", "page fadein");
+      foot.style.display = "none";
     }, false);
 };
