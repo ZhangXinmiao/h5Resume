@@ -151,7 +151,7 @@ html,body{
 #content1 > p{
   width:85%;
   margin: 0 auto;
-  padding: 0.2vw;
+  padding: 0.15vw;
 }
 .fadeout{
   opacity: .3;
