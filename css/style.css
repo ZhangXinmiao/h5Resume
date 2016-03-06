@@ -45,7 +45,7 @@ html,body{
   font-size: 9.5vw;
 }
 .right > h2{
-  margin-top: 5vh;
+  margin-top: 7vw;
 }
 
 #page1{
@@ -173,12 +173,12 @@ html,body{
 #content2 > h3{
   width: 87%;
   margin: 0 auto;
-  margin-top: 3vh;
+  margin-top: 2vw;
 }
 #content2 > p{
   width:85%;
   margin: 0 auto;
-  margin-top: 2vw;
+  margin-top: 0.5vw;
 }
 .fadein{
   animation: thefadein 2s;
