@@ -4,7 +4,6 @@ window.onload = function(){
     var page3 = document.getElementById("page3");
     var page4 = document.getElementById("page4");
     var foot = document.getElementsByClassName('thefoot')[0];
-    console.log(foot);
     page1.addEventListener("touchmove", function(event){
       this.style.display = "none";
       page2.style.display = "block";
