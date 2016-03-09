@@ -227,16 +227,16 @@ html,body{
 #page4 > .bg{
   background-color: rgb(0, 0, 20);
 }
-#content3{
+#flowerflake{
   color: #fff;
   font-size: 6vw;
 }
-#content3 > p{
+#flowerflake > p{
   width: 80%;
   margin: 0 auto;
-  padding-top: 5vh;
+  padding-top:20vh;
 }
-#content3 > p > a{
+#flowerflake > p > a{
   color: #fff;
   text-decoration:none;
   border-bottom: 3px solid #eee;
@@ -245,7 +245,7 @@ html,body{
   width:20vw;
   height:23vw;
   margin-left: 3vw;
-  margin-top: 20vh;
+  margin-top: 50vh;
 }
 #icon3{
   background-image: url(../image/contact.png);
